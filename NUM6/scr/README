@@ -1,0 +1,17 @@
+#######################################
+Program napisał Wojciech Lotko
+######################################
+#
+W katalogu znajduja sie pliki zadania NUM6, w ktorym celem
+bylo wyznaczenie oraz wykreslenie wielomianow interpolacyjnych
+Lagrange'a. Wykresy zostaly sporzadzane w programie GNUplot.
+Aby zmienic stopien wielomianu nalezy zmodyfikowac zmienna
+pSIZE = n; Po wykonaniu programu dane zostana zapisane w 
+odpowiednich plikach .csv, nazwy plikow mozemy zmienic modyfikujac
+zmienna string w funkcji saveFile().
+##
+W katalogu znajduje sie rowniez plik Makefile aby z niego skorzystac
+uzywamy:
+make run - uruchamia program
+make clean - czysci katalog
+make tar - pakuje biezacy katalog do formatu .tar.gz

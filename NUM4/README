@@ -1,0 +1,12 @@
+Kraków 29.11.2021
+Program napisa³ Wojciech Lotko
+########################################################################
+W katalogu znajduje siê kod progamu do zadania NUM4
+rozwi¹zuj¹cy rówananie macierzowe korzystaj¹c ze wzoru Shermana-Morissona.
+
+W katalogu zosta³ równie¿ umieszczony prosty plik makefile pozwalaj¹cy 
+uruchomic kod aby z niego korzystac nalezy wpisac: 
+make run - uruchomi program
+make clean - wyczysci katalog z niepotrzebnych plikow
+make tar - spakuje katalog 
+########################################################################

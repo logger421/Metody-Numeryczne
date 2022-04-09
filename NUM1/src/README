@@ -1,0 +1,16 @@
+#######################################################################
+Program napisał Wojciech Lotko			Kraków 18.10.2021
+
+
+#######################################################################
+W katalogu /kod_cpp znajduje się plik main.cpp jest to głowny 
+kod zadania numerycznego nr 1 liczący przybliżenie pochodnej na podstawie
+dwoch wzorów podanych w zadaniu. W programie posługuję się
+czterema funkcjami ( po dwie dla każdej wartości zwracanej)
+float i double.
+#######################################################################
+W katalogu znajduje się również prosty plik Makefile 
+aby uruchomic program nalezy wpisac komende - make run
+aby wyczyscic katalog nalezy wpisac - make clean
+jesli chcemy spakowac folder - make tar
+#######################################################################

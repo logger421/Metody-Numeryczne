@@ -1,1 +1,3 @@
 # Metody-Numeryczne
+
+## Repo in progress... 
